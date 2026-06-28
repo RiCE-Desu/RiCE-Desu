@@ -6,7 +6,7 @@
 
 </div>
 
-## 🎮 Karakter Status: "Class Change & Student Quest!" 🔄
+## 🎮 Status Karakter: "Class Change & Student Quest!" 🔄
 
 Saat ini saya sedang menempuh perjalanan akademis sebagai **mahasiswa di President University**. Di dunia coding, saya memulai petualangan dari *realm* **Web Development**. Namun, karena jiwa gamer saya terus memanggil, sekarang saya memutuskan untuk mengambil *side quest* besar: berpindah *class* menjadi **Pemula di Dunia Game Development**! 
 
